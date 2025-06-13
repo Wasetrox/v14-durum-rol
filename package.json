@@ -1,0 +1,18 @@
+{
+  "name": "v14-durum-rol",
+  "version": "1.0.0",
+  "description": "Kullanıcı durumlarına göre rol veren Discord botu",
+  "main": "wase.js",
+  "scripts": {
+    "start": "node wase.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wasetrox",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^2.4.0",
+    "@discordjs/voice": "^0.18.0",
+    "discord-api-types": "^0.37.83",
+    "discord.js": "^14.15.3"
+  }
+}
